@@ -1,0 +1,16 @@
+[package]
+name = "k256-example"
+version = "0.1.0"
+edition = "2021"
+
+default-run = "k256-example"
+
+[dependencies]
+k256 = { version = "0.13", features = ["serde"] }
+k256-methods = { path = "methods" }
+rand_core = "0.6.4"
+risc0-zkvm = { version = "=2.3.1" }
+[features]
+cuda = ["risc0-zkvm/cuda"]
+default = []
+prove = ["risc0-zkvm/prove"]

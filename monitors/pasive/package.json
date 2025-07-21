@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@phala/dstack-sdk": "^0.2.2",
+    "axios": "^1.10.0",
+    "crypto": "^1.0.1",
+    "ethers": "^6.15.0",
+    "form-data": "^4.0.3",
+    "ipfs-http-client": "^60.0.1",
+    "merkletreejs": "^0.5.2"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0.0",
+  "backendUrl": "http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:3000",
+  "backendTimeout": 30000,
+  "measurementInterval": 600000,
+  "aesKey": "6b8f1a2e2b9e43f83972fc6bc091c695cbf797baf83dd961526054e987ab4457",
+  "ttlDays": 90,
+  "aggregatorEndpoint": "http://localhost:4000/aggregate",
+  "slaDefinition": {
+    "maxLatencyMs": 300,
+    "acceptableStatusCodes": [
+      200,
+      201,
+      202,
+      204,
+      301,
+      302,
+      304
+    ],
+    "errorThreshold": 0.01
+  },
+  "providerAddress": "0x3750E62Cadf214A005B771252eE048EAdf72A4Ec",
+  "consumerAddress": "0x1dCf74DAaB12e23D6f3016B45000bAb410636FCC",
+  "providerSignature": "0x6e4fe3309492d9f72186f710460958894b11e8529577a2eb1ce8fc4012b21ece48e6310998d03e073d037bfe6206ec82283bc8b90c69a956802518a0d47818d11c",
+  "consumerSignature": "0x03a1c84320466aedc26775bb140fe3fa3ab4274bac86f1c4fc5f6fbabf2c3a3e044231aab866568232e5411fe74ffcc10e6303fae612f79afab00948e60651ae1c",
+  "batchSizeSeal": 8192
+}

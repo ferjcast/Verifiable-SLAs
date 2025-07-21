@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  app:
+    image: ferjcast/app:new
+    container_name: app
+    volumes:
+      - /var/run/tappd.sock:/var/run/tappd.sock
+    ports:
+      - "3003:3003"
+    restart: always

@@ -1,0 +1,76 @@
+// Copyright 2025 RISC Zero, Inc.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+use k256_methods::{K256_VERIFY_ELF, K256_VERIFY_ID};
+//use rand_core::OsRng;
+use risc0_zkvm::{default_prover, ExecutorEnv};
+
+/// Given an secp256k1 verifier key (i.e. public key), message and signature,
+/// runs the ECDSA verifier inside the zkVM and returns a receipt, including a
+/// journal and seal attesting to the fact that the prover knows a valid
+/// signature from the committed public key over the committed message.
+///
+
+fn main() {
+    //let data = include_str!("../res/example.json");
+    let data = include_str!("../res/measurement-proof-0-1024.json");
+    search_json(data);
+}
+
+fn search_json(data: &str) {
+    let env = ExecutorEnv::builder()
+        .write(&data)
+        .unwrap()
+        .build()
+        .unwrap();
+
+    // Obtain the default prover.
+    let prover = default_prover();
+
+    // Produce a receipt by proving the specified ELF binary.
+    let receipt = prover.prove(env, K256_VERIFY_ELF).unwrap().receipt;
+
+    // Decode the committed values from the journal
+    let (
+        _is_valid,            // bool: Is the proof valid?
+        _sla_violated,        // bool: Does it violate SLA?
+        _measurement_latency, // i32: What was the latency?
+        _measurement_success, // bool: Was it successful?
+        _batch_sequence,      // u64: Which batch?
+        _measurement_index,   // usize: Which measurement in the batch?
+    ): (bool, bool, i32, bool, u64, usize) = receipt.journal.decode().unwrap();
+    receipt.verify(K256_VERIFY_ID).unwrap();
+}
+
+/*fn main() {
+    // Generate a random secp256k1 keypair and sign the message.
+    let signing_key = SigningKey::random(&mut OsRng); // Serialize with `::to_bytes()`
+    let message = b"This is a message that will be signed, and verified within the zkVM";
+    let signature: Signature = signing_key.sign(message);
+
+    // Run signature verified in the zkVM guest and get the resulting receipt.
+    let receipt = prove_ecdsa_verification(signing_key.verifying_key(), message, &signature);
+
+    // Verify the receipt and then access the journal.
+    receipt.verify(K256_VERIFY_ID).unwrap();
+    let (receipt_verifying_key, receipt_message): (EncodedPoint, Vec<u8>) =
+        receipt.journal.decode().unwrap();
+
+    println!(
+        "Verified the signature over message {:?} with key {}",
+        std::str::from_utf8(&receipt_message[..]).unwrap(),
+        receipt_verifying_key,
+    );
+}
+*/

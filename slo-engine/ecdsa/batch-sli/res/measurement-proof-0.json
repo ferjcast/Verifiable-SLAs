@@ -1,0 +1,28 @@
+{
+  "measurement": {
+    "endpoint": "https://api.payment.com/v2",
+    "error": "HTTP 503",
+    "latency": 1776,
+    "method": "GET",
+    "monitorId": "monitor-69f03f04",
+    "path": "/health",
+    "statusCode": 503,
+    "success": false,
+    "timestamp": 1751557337281
+  },
+  "measurement_signature": "dcffefe5a5ba4545868becaa428efb3c89f1e9fd923be064a6aff2e51b051c554ce773dffa2a9e809db4f0ae6205d3a4849392833a0b241d97330bedfb4737db",
+  "merkle_proof": [
+    "3365e79785d598218fccebce410624d97385ce6ca7d13f140ed43e9f3c466a40",
+    "3fada0db06ddfc69febe14e066daf813d3bd24c27daa87e6e1b3ffe4578c70f1",
+    "852dbfda09e0218fb834a7b9a80412db5709f575bce3febe6b70603a9584871c",
+    "63a90d65d6a25bf585ca31925af43406c4f74692bb5d817c6b90d51e5f47ffe7"
+  ],
+  "merkle_root": "e43b96be05694f8acaf17f1d49482e01758024028e33c70fd9bcb162e67c3795",
+  "merkle_root_signature": "5f044b33dc5a5b0429731c2a53f196899bec1d6308d16cd06bace07457e29ae745e41068ff49218054b7a73e25a12af42ed1794731708608e06cbb8c7d14465d",
+  "public_key": "04149a22d91b1098e24f60acc6aba8154d14d308ca01dae133a2dac4f15eb1dde6c9eedb0cb03efea9d66ccb348b96c6cf7699a834e3dad2bcb62c92ffa22e135a",
+  "batch_info": {
+    "batch_sequence": 0,
+    "measurement_index": 5,
+    "total_measurements": 16
+  }
+}

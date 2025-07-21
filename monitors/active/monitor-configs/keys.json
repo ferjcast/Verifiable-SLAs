@@ -1,0 +1,11 @@
+{
+  "provider": {
+    "address": "0x3750E62Cadf214A005B771252eE048EAdf72A4Ec",
+    "privateKey": "0xbf69f5c5b06c1e53b52511b31fb2f0605402772a892979559e085407823950ab"
+  },
+  "consumer": {
+    "address": "0x1dCf74DAaB12e23D6f3016B45000bAb410636FCC",
+    "privateKey": "0xfec4a93da00012c26a95fa5332e7c6a5698c3fcb8cb214a98315b9f4dbf49291"
+  },
+  "createdAt": "2025-07-06T20:17:55.937Z"
+}

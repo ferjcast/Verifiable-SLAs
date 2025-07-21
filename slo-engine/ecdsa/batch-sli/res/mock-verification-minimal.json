@@ -1,0 +1,174 @@
+{
+  "public_key": "042d23a79275636b6f656d73349f1360e375bf21b8fe48f0cd901f6c0b5a6cefdeeed67b9fe7c9917b5e7cdebc245e4923375c7030834bdb77ecb129a81c1e8e1e",
+  "wallet_address": "0x059af57d4aaffc6c41f2b3a3e83b08fe01dcd85d",
+  "batches": [
+    {
+      "batch_sequence": 0,
+      "merkle_root": "e9803e7eb1bf9ed93d3fa9da12131a4ca1f99bc4cb846312da8f750c4107550f",
+      "merkle_root_signature": "2d54899f628529e1a2a1b827d61a4c3aa979ec334758b37c73779845754f902500eec16a6245779eb1aece7d11d4a6cb1c78f0d0d0e44109054ebb067e9a3954",
+      "measurements": [
+        {
+          "endpoint": "https://api.payment.com/v1",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 41,
+          "timestamp": 1751550615488,
+          "success": true,
+          "monitorId": "monitor-9806ac42"
+        },
+        {
+          "endpoint": "https://api.payment.com/v2",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 24,
+          "timestamp": 1751550619238,
+          "success": true,
+          "monitorId": "monitor-3928bede"
+        },
+        {
+          "endpoint": "https://api.inventory.com",
+          "method": "GET",
+          "path": "/api/4",
+          "statusCode": 200,
+          "latency": 17,
+          "timestamp": 1751550622988,
+          "success": true,
+          "monitorId": "monitor-2548d21f"
+        },
+        {
+          "endpoint": "https://api.auth.com",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 6,
+          "timestamp": 1751550626738,
+          "success": true,
+          "monitorId": "monitor-c9c47e79"
+        },
+        {
+          "endpoint": "https://api.payment.com/v1",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 39,
+          "timestamp": 1751550630488,
+          "success": true,
+          "monitorId": "monitor-32dc2fd4"
+        },
+        {
+          "endpoint": "https://api.payment.com/v2",
+          "method": "GET",
+          "path": "/api/7",
+          "statusCode": 200,
+          "latency": 46,
+          "timestamp": 1751550634238,
+          "success": true,
+          "monitorId": "monitor-dc6f9d56"
+        },
+        {
+          "endpoint": "https://api.inventory.com",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 20,
+          "timestamp": 1751550637988,
+          "success": true,
+          "monitorId": "monitor-77e42a5f"
+        },
+        {
+          "endpoint": "https://api.auth.com",
+          "method": "GET",
+          "path": "/api/6",
+          "statusCode": 200,
+          "latency": 7,
+          "timestamp": 1751550641738,
+          "success": true,
+          "monitorId": "monitor-dc286419"
+        },
+        {
+          "endpoint": "https://api.payment.com/v1",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 44,
+          "timestamp": 1751550645488,
+          "success": true,
+          "monitorId": "monitor-eace204c"
+        },
+        {
+          "endpoint": "https://api.payment.com/v2",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 30,
+          "timestamp": 1751550649238,
+          "success": true,
+          "monitorId": "monitor-4c64935b"
+        },
+        {
+          "endpoint": "https://api.inventory.com",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 16,
+          "timestamp": 1751550652988,
+          "success": true,
+          "monitorId": "monitor-f03e857d"
+        },
+        {
+          "endpoint": "https://api.auth.com",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 11,
+          "timestamp": 1751550656738,
+          "success": true,
+          "monitorId": "monitor-8f3ac824"
+        },
+        {
+          "endpoint": "https://api.payment.com/v1",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 29,
+          "timestamp": 1751550660488,
+          "success": true,
+          "monitorId": "monitor-060218f3"
+        },
+        {
+          "endpoint": "https://api.payment.com/v2",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 43,
+          "timestamp": 1751550664238,
+          "success": true,
+          "monitorId": "monitor-e56a8c54"
+        },
+        {
+          "endpoint": "https://api.inventory.com",
+          "method": "GET",
+          "path": "/health",
+          "statusCode": 200,
+          "latency": 28,
+          "timestamp": 1751550667988,
+          "success": true,
+          "monitorId": "monitor-98d0fd9e"
+        },
+        {
+          "endpoint": "https://api.auth.com",
+          "method": "GET",
+          "path": "/api/4",
+          "statusCode": 200,
+          "latency": 12,
+          "timestamp": 1751550671738,
+          "success": true,
+          "monitorId": "monitor-65e58aaf"
+        }
+      ],
+      "timestamp": "2025-07-03T13:51:15.507595Z"
+    }
+  ]
+}

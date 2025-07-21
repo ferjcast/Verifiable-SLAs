@@ -1,0 +1,37 @@
+{
+  "measurement": {
+    "endpoint": "https://api.inventory.com",
+    "error": "HTTP 503",
+    "latency": 4378,
+    "method": "GET",
+    "monitorId": "monitor-39c049e5",
+    "path": "/api/5",
+    "statusCode": 503,
+    "success": false,
+    "timestamp": 1752079381751
+  },
+  "measurement_signature": "f144cde485f987d30f6c4da2ab2c54fa28fd820c7ded9c223220fd01bc902b140803491971a7a601e437683cd62db9434c1c0937c2444fafa8ffefbc56dea029",
+  "merkle_proof": [
+    "c61f7d17d87ca2d3ff62356051b89eb9e51f21e29aa1b7a4b4f5713c484ccfd0",
+    "fff349ea1977a7c7c8fc93141be2aee4ca0e76c6eac8bb4d742f832a9d126a8e",
+    "7eccf719d4f8fc5046fcbcb542e847842279f1601485d64604824e0834a3fe36",
+    "56aae20ca0f6ced893e6d11960fb86b8ea3164b5916f1b6994d77ae73794c8ee",
+    "1eb69f236826a2ef47f1895b35fe4648bd417d238bf4a5c013fad95b9b15b966",
+    "f70b0f89719332a39d08b2a41ea84b2078a307c06164a13bf04ba247be9f8612",
+    "057b012ea86af7c5d9585e2126196bf03dc2ad774165a6367859aa747edc5001",
+    "5ceacbcd8926fa9da95cbea78e7650c40070dc716f07cf40e1d7bab09337f081",
+    "0ef48f1c776e1b9ef00d9040a77de71f2b1bc6923be5ab452c58326f17f5f00e",
+    "c22fa361c68d5830ad425ba023c5e18915598b5c81842bf4b8dcf21a4d5ca33e",
+    "284fc8b53df5275ed4b34c30bbb5226bb9d8f8ddddb454d20532a8b34fb27498",
+    "f54a42f8c0fbf2237720ea012b45dfd0551d8dff8edd54d61e303759a7b92b39",
+    "7dd4b690931156abb07ce4549557e6f31b661169be7cea8f2980d33a290d5cfa"
+  ],
+  "merkle_root": "aa0c7cfb4481bede9911d85dcc61a1601d7af821d80bf96c69d70d1d30de2787",
+  "merkle_root_signature": "ab18afda882e824ad3131b8371e142d1050a85f694b53c6b9965af2848c96e8165bb2b58d55f9c5d118769004293e48ee6adbcebaf6195bba156e07aebff577d",
+  "public_key": "041c88a9f026307b6ecfc00a8bdffc2bed11babdfee08c05ffdfdffd83059c4c5973ea903bf0fe90225acd0a1f045994c2347dfce4ece568161ef4ceb70514ce2c",
+  "batch_info": {
+    "batch_sequence": 0,
+    "measurement_index": 10,
+    "total_measurements": 8192
+  }
+}

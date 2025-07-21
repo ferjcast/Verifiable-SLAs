@@ -1,0 +1,34 @@
+{
+  "measurement": {
+    "endpoint": "https://api.payment.com/v1",
+    "error": "Request timeout",
+    "latency": -1,
+    "method": "GET",
+    "monitorId": "monitor-d98bd062",
+    "path": "/api/4",
+    "statusCode": 503,
+    "success": false,
+    "timestamp": 1752068377815
+  },
+  "measurement_signature": "0f50480346ad39845cdeba530086dc48a3a05874504c4b9a81a5f48871782c436a17c5d3e139c831cf560f105582a62cabf3b55445545b2701811899ad762266",
+  "merkle_proof": [
+    "fa8f41aebadcccffbec541b9e7c25b7c8c3db6a1890cfca67e22b7206d24f167",
+    "77af97bed28c2c71caa69997ab6fb0b2a9214d6391912f30c9cd7922dde0dae3",
+    "a8f93e895b3915c6de0c62ff2100ac03c05c39ae4ab185a33b38a0bf718a290a",
+    "7d1767848efd59e178f780b0d7371d6deb2c33c194e116cb16807ee889f6a7a6",
+    "7477a85fba4ac7d80b282a91a0058d0a0a730d2cb370d81464a2c925378cf3fd",
+    "07f5c36ab84d7d7dc36a0ef84daede5c54be427cf3085d7a1b84f1ea121be5e1",
+    "1c6a9961df6dab919fb2e34dbf698f659ae44bb7ff41b86d85de771672ecd9f7",
+    "53a235d2a12569fc8ba38fea337a331bdd679f5ed30acdf9111223dd58ace81e",
+    "d225b672e8f255af56e06e168c0390e02d49b263e32b11e1b0eb00aff6c83c86",
+    "1554c63977c9327c1b0cc9601dcaec4a5d2c18f4379e6a824bcac8e263c7f178"
+  ],
+  "merkle_root": "6b801cf0792f176977cf5cb1db1526d1b3c39ffd42fb6578b9a071577a1f6b98",
+  "merkle_root_signature": "cf614889eb7957288ac463dee6465939d25f10b3d6dd5319fd9da32dbe992a712a5a8fc9abebfc80c4d46e6418e0f2298658abff0234824b4676daba844f9b3a",
+  "public_key": "04c88fb16863ffb8b31bfd5fd8e69c463e49949d656ffe779c0760e078ac0e9343e07afa525a08d70d58014d46d9f474feaa089a98fed181cb54a6733cf49a9cb5",
+  "batch_info": {
+    "batch_sequence": 0,
+    "measurement_index": 0,
+    "total_measurements": 1024
+  }
+}

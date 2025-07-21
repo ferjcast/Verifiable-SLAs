@@ -1,0 +1,60 @@
+# docker-compose.yml - Just IPFS in private mode
+
+version: '3.8'
+
+services:
+  ipfs:
+    image: ipfs/go-ipfs:latest
+    container_name: private_ipfs
+    environment:
+      - IPFS_PROFILE=server
+    volumes:
+      - ./ipfs_data:/data/ipfs
+    ports:
+      - "5001:5001"  # API
+      - "8080:8080"  # Gateway
+    entrypoint: ["/bin/sh", "-c"]
+    command: |
+      "
+      if [ ! -f /data/ipfs/config ]; then
+        ipfs init --profile server
+      fi
+      ipfs bootstrap rm --all
+      ipfs config Addresses.API /ip4/0.0.0.0/tcp/5001
+      ipfs config Addresses.Gateway /ip4/0.0.0.0/tcp/8080
+      ipfs daemon --offline
+      "
+
+  hardhat-node:
+    image: ethereumoptimism/hardhat-node:latest
+    ports:
+      - "8545:8545"
+    environment:
+      - HARDHAT_NETWORK=hardhat
+      - HARDHAT_CHAIN_ID=31337
+    command: >
+      sh -c "
+        npx hardhat node --hostname 0.0.0.0 --port 8545
+      "
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8545"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  backend:
+    image: node:18-alpine
+    working_dir: /app
+    volumes:
+      - ./backend-server.js:/app/backend-server.js
+    command: node backend-server.js
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - HOSTNAME=0.0.0.0
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://localhost:3000/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 5

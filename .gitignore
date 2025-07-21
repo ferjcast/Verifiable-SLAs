@@ -1,0 +1,174 @@
+# ============================================
+# Root Level
+# ============================================
+# OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+Desktop.ini
+.directory
+
+# Editor/IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Logs and temp files
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# ============================================
+# monitors/active/ (Node.js)
+# ============================================
+monitors/active/node_modules/
+monitors/active/package-lock.json
+monitors/active/.env
+monitors/active/.env.*
+monitors/active/*.log
+monitors/active/dist/
+monitors/active/build/
+
+# ============================================
+# monitors/pasive/ (Node.js) - note the typo
+# ============================================
+monitors/pasive/node_modules/
+monitors/pasive/package-lock.json
+monitors/pasive/.env
+monitors/pasive/.env.*
+monitors/pasive/*.log
+monitors/pasive/dist/
+monitors/pasive/build/
+
+# ============================================
+# sla-contracts/ (Hardhat - already has artifacts)
+# ============================================
+# Keep artifacts/ and cache/ since they exist
+# but ignore sensitive files
+sla-contracts/node_modules/
+sla-contracts/.env
+sla-contracts/.env.*
+sla-contracts/*.log
+sla-contracts/coverage/
+sla-contracts/coverage.json
+sla-contracts/deployments/
+sla-contracts/.openzeppelin/
+sla-contracts/typechain/
+sla-contracts/typechain-types/
+# Don't ignore package-lock.json as it's important for reproducible builds
+
+# ============================================
+# slo-engine/ (Rust)
+# ============================================
+slo-engine/*/*/target/
+slo-engine/*/*/debug/
+slo-engine/Cargo.lock
+slo-engine/**/*.rs.bk
+slo-engine/*.pdb
+# The ecdsa folder seems to contain binaries
+slo-engine/ecdsa/*.log
+slo-engine/ecdsa/target/
+
+# ============================================
+# infra-storage/ (if it exists)
+# ============================================
+infra-storage/node_modules/
+infra-storage/build/
+infra-storage/dist/
+infra-storage/.env
+infra-storage/.env.*
+infra-storage/*.log
+infra-storage/.ipfs/
+infra-storage/data/
+infra-storage/package-lock.json
+
+# ============================================
+# Project-wide patterns
+# ============================================
+# Environment files anywhere
+**/.env
+**/.env.local
+**/.env.*.local
+**/.env.development
+**/.env.production
+**/.env.test
+
+# Docker volumes
+**/data/
+**/volumes/
+
+# Test results and coverage
+**/coverage/
+**/test-results/
+**/results/
+plots/
+
+# Keys and secrets
+*.pem
+*.key
+*.cert
+*.crt
+**/secrets/
+**/private/
+**/.secret
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Python (for any analysis scripts)
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+env/
+.Python
+
+# IPFS
+.ipfs/
+ipfs-data/
+
+# Temporary build files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# OS generated files
+**/.DS_Store
+**/Thumbs.db
+
+# ============================================
+# Files to explicitly keep
+# ============================================
+!.gitkeep
+!.gitignore
+!LICENSE
+!**/package.json
+!**/Cargo.toml
+!**/docker-compose.yml
+!**/Dockerfile
