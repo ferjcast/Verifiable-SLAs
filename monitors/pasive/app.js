@@ -16,12 +16,12 @@ const STARTUP_CONFIG = {
   // These can be overridden by environment variables or will be validated from the loaded config
   providerAddress: "0x3750E62Cadf214A005B771252eE048EAdf72A4Ec",//process.env.PROVIDER_ADDRESS,
   consumerAddress: "0x1dCf74DAaB12e23D6f3016B45000bAb410636FCC",//process.env.CONSUMER_ADDRESS,
-  rpcUrl: process.env.RPC_URL || 'http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:8545',
+  rpcUrl: process.env.RPC_URL || 'http://ec2-xx-xx-xx-xx.us-east-2.compute.amazonaws.com:8545',
   registryAddress: process.env.REGISTRY_ADDRESS || "0x483B5a3A80c1b09c1b6DaAB71f5398ef163F270a",
   evidenceStorageAddress: process.env.EVIDENCE_STORAGE_ADDRESS || "0x483B5a3A80c1b09c1b6DaAB71f5398ef163F270a",
   // IPFS configuration
-  ipfsApi: process.env.IPFS_API || 'http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:5001',
-  ipfsGateway: process.env.IPFS_GATEWAY || 'http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:8080',
+  ipfsApi: process.env.IPFS_API || 'http://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com:5001',
+  ipfsGateway: process.env.IPFS_GATEWAY || 'http://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com:8080',
   // Development mode flag
   useMockTEE: false //process.env.USE_MOCK_TEE !== 'false' // Default to true for development
 };

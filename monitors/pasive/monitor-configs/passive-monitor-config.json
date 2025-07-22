@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "backendUrl": "http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:3000",
+  "backendUrl": "http://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com:3000",
   "backendTimeout": 30000,
   "measurementInterval": 600000,
   "aesKey": "6b8f1a2e2b9e43f83972fc6bc091c695cbf797baf83dd961526054e987ab4457",

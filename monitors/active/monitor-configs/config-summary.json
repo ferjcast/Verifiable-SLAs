@@ -1,5 +1,5 @@
 {
-  "backendUrl": "http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:3000",
+  "backendUrl": "http://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com:3000",
   "slaDefinition": {
     "maxLatencyMs": 300,
     "acceptableStatusCodes": [
