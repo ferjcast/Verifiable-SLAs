@@ -14,10 +14,10 @@
         "startTime": 1751487877573,
         "endTime": 1751487937514.4062,
         "endpoints": [
-          "https://api.payment.com/v1",
-          "https://api.payment.com/v2",
-          "https://api.inventory.com",
-          "https://api.auth.com"
+          "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
+          "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
+          "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
+          "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com"
         ],
         "monitorPublicKey": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEEmm72dpup6SKOLWhDnt+EoS+vo0127Qk\nslegVqi116dO3/X/tu01d/mIMpm0YwVNSlEGs3/lZOpARgahrKtkig==\n-----END PUBLIC KEY-----\n"
       },
@@ -40,7 +40,7 @@
     },
     "measurements": [
       {
-        "endpoint": "https://api.payment.com/v1",
+        "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
         "method": "GET",
         "path": "/api/2",
         "statusCode": 200,
@@ -52,7 +52,7 @@
         "signature": "304502203489f573023b805a3613759124d6da3660d9f4302c57d4782c9878ffb9e011df022100de516d5c3c974ebd0f6c9a6dd94e06c0358f87ead38bfca680e55353de782018"
       },
       {
-        "endpoint": "https://api.payment.com/v2",
+        "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
         "method": "GET",
         "path": "/health",
         "statusCode": 200,
@@ -64,7 +64,7 @@
         "signature": "3045022100bb7c404e90f81a9fdfc0ee1fdefa9d78e41dcecbdf6b6af3f34277a76362c22702202fa1e50772dbc3a92c1b66011ba2375bbf4c64dcc65d1f957e6aedad7c7d9da1"
       },
       {
-        "endpoint": "https://api.payment.com/v1",
+        "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
         "method": "GET",
         "path": "/api/2",
         "statusCode": 200,

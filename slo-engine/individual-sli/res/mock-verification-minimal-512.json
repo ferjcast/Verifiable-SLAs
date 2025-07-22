@@ -8,7 +8,7 @@
       "merkle_root_signature": "c698aa60f9b2cb53d228aeae39f171b3384f6641e4c8276ec9e42aaa39e4d3123a01877ce441d6cf6af999ac0b725c599fec53994853bb0ee1ef9e22521a1b2b",
       "measurements": [
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -18,7 +18,7 @@
           "monitorId": "monitor-b22f548d"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -28,7 +28,7 @@
           "monitorId": "monitor-9a041b74"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -38,7 +38,7 @@
           "monitorId": "monitor-199d31aa"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -48,7 +48,7 @@
           "monitorId": "monitor-6d0298c1"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -58,7 +58,7 @@
           "monitorId": "monitor-5a054cda"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -68,7 +68,7 @@
           "monitorId": "monitor-35ea2cc9"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -78,7 +78,7 @@
           "monitorId": "monitor-1cc9ef3f"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -88,7 +88,7 @@
           "monitorId": "monitor-fee5ad92"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -98,7 +98,7 @@
           "monitorId": "monitor-a4ccc4dc"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -108,7 +108,7 @@
           "monitorId": "monitor-5941f9ad"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -118,7 +118,7 @@
           "monitorId": "monitor-78cf2f98"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -128,7 +128,7 @@
           "monitorId": "monitor-14e21b47"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -138,7 +138,7 @@
           "monitorId": "monitor-0a5dce8b"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -148,7 +148,7 @@
           "monitorId": "monitor-6e4abb05"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -158,7 +158,7 @@
           "monitorId": "monitor-da781cf7"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -168,7 +168,7 @@
           "monitorId": "monitor-6b9f4e9c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -178,7 +178,7 @@
           "monitorId": "monitor-23ca6e33"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/7",
           "statusCode": 200,
@@ -188,7 +188,7 @@
           "monitorId": "monitor-0ec52ef8"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -198,7 +198,7 @@
           "monitorId": "monitor-36dacad3"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -208,7 +208,7 @@
           "monitorId": "monitor-0f400fde"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -218,7 +218,7 @@
           "monitorId": "monitor-23c6ab66"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -228,7 +228,7 @@
           "monitorId": "monitor-9ed1be1a"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -238,7 +238,7 @@
           "monitorId": "monitor-26a5061c"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -248,7 +248,7 @@
           "monitorId": "monitor-92b01f2c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -258,7 +258,7 @@
           "monitorId": "monitor-1a940d48"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -268,7 +268,7 @@
           "monitorId": "monitor-0bf7181f"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -278,7 +278,7 @@
           "monitorId": "monitor-f8f7edc8"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -288,7 +288,7 @@
           "monitorId": "monitor-91fcea96"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -298,7 +298,7 @@
           "monitorId": "monitor-47aecebc"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -308,7 +308,7 @@
           "monitorId": "monitor-ac2acb64"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -318,7 +318,7 @@
           "monitorId": "monitor-1bf9c673"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -328,7 +328,7 @@
           "monitorId": "monitor-9c92089d"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -338,7 +338,7 @@
           "monitorId": "monitor-3ef19b9f"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -348,7 +348,7 @@
           "monitorId": "monitor-3834c869"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -358,7 +358,7 @@
           "monitorId": "monitor-036336e7"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -368,7 +368,7 @@
           "monitorId": "monitor-e7ccdc2f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -378,7 +378,7 @@
           "monitorId": "monitor-e4bde07b"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -388,7 +388,7 @@
           "monitorId": "monitor-ab832c7c"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -398,7 +398,7 @@
           "monitorId": "monitor-8fc85dea"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -408,7 +408,7 @@
           "monitorId": "monitor-f457cc7f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -418,7 +418,7 @@
           "monitorId": "monitor-d045939d"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -428,7 +428,7 @@
           "monitorId": "monitor-d1996d9a"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -438,7 +438,7 @@
           "monitorId": "monitor-f85694be"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -448,7 +448,7 @@
           "monitorId": "monitor-fa66131c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -458,7 +458,7 @@
           "monitorId": "monitor-35aa7b12"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -468,7 +468,7 @@
           "monitorId": "monitor-3c3b7f3a"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -478,7 +478,7 @@
           "monitorId": "monitor-31d06c38"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -488,7 +488,7 @@
           "monitorId": "monitor-42b0b98f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -498,7 +498,7 @@
           "monitorId": "monitor-66c16613"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -508,7 +508,7 @@
           "monitorId": "monitor-5c01aa53"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -518,7 +518,7 @@
           "monitorId": "monitor-50738043"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -528,7 +528,7 @@
           "monitorId": "monitor-e235fcae"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -538,7 +538,7 @@
           "monitorId": "monitor-4dd637e0"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -548,7 +548,7 @@
           "monitorId": "monitor-a9192d78"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -558,7 +558,7 @@
           "monitorId": "monitor-634921e5"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -568,7 +568,7 @@
           "monitorId": "monitor-b8553485"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -578,7 +578,7 @@
           "monitorId": "monitor-eab646ff"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -588,7 +588,7 @@
           "monitorId": "monitor-e933b9dc"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -598,7 +598,7 @@
           "monitorId": "monitor-285d87e1"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -608,7 +608,7 @@
           "monitorId": "monitor-172fcbec"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -618,7 +618,7 @@
           "monitorId": "monitor-e1189e60"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -628,7 +628,7 @@
           "monitorId": "monitor-d4ec93e0"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -638,7 +638,7 @@
           "monitorId": "monitor-7bd8853a"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -648,7 +648,7 @@
           "monitorId": "monitor-f22031c9"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -658,7 +658,7 @@
           "monitorId": "monitor-92ef9579"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -668,7 +668,7 @@
           "monitorId": "monitor-5288a522"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -678,7 +678,7 @@
           "monitorId": "monitor-d65939c2"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -688,7 +688,7 @@
           "monitorId": "monitor-6500226e"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -698,7 +698,7 @@
           "monitorId": "monitor-bf8a9e6f"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -708,7 +708,7 @@
           "monitorId": "monitor-7b91f537"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -718,7 +718,7 @@
           "monitorId": "monitor-16704026"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -728,7 +728,7 @@
           "monitorId": "monitor-42304abb"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -738,7 +738,7 @@
           "monitorId": "monitor-c2bc8914"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -748,7 +748,7 @@
           "monitorId": "monitor-0e6b6769"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 500,
@@ -759,7 +759,7 @@
           "error": "Request timeout"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -769,7 +769,7 @@
           "monitorId": "monitor-634cc8e6"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -779,7 +779,7 @@
           "monitorId": "monitor-f4ca3b77"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -789,7 +789,7 @@
           "monitorId": "monitor-ef294854"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -799,7 +799,7 @@
           "monitorId": "monitor-773f0179"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -809,7 +809,7 @@
           "monitorId": "monitor-ac59bb68"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -819,7 +819,7 @@
           "monitorId": "monitor-999212ea"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -829,7 +829,7 @@
           "monitorId": "monitor-460c34a8"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/4",
           "statusCode": 200,
@@ -839,7 +839,7 @@
           "monitorId": "monitor-09142564"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -849,7 +849,7 @@
           "monitorId": "monitor-a2b8758d"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -859,7 +859,7 @@
           "monitorId": "monitor-2942e756"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -869,7 +869,7 @@
           "monitorId": "monitor-07a7cf9f"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -879,7 +879,7 @@
           "monitorId": "monitor-434d6c57"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -889,7 +889,7 @@
           "monitorId": "monitor-9668fd8f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -899,7 +899,7 @@
           "monitorId": "monitor-919a858b"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -909,7 +909,7 @@
           "monitorId": "monitor-f9caa271"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -919,7 +919,7 @@
           "monitorId": "monitor-5fe62a43"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -929,7 +929,7 @@
           "monitorId": "monitor-f69d5684"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -939,7 +939,7 @@
           "monitorId": "monitor-4109c250"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -949,7 +949,7 @@
           "monitorId": "monitor-2544b849"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -959,7 +959,7 @@
           "monitorId": "monitor-a6d87a0d"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -969,7 +969,7 @@
           "monitorId": "monitor-0f59f687"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -979,7 +979,7 @@
           "monitorId": "monitor-ad08513f"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -989,7 +989,7 @@
           "monitorId": "monitor-b2950e69"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -999,7 +999,7 @@
           "monitorId": "monitor-decd09e6"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1009,7 +1009,7 @@
           "monitorId": "monitor-20cec0ee"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1019,7 +1019,7 @@
           "monitorId": "monitor-d0dea25c"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1029,7 +1029,7 @@
           "monitorId": "monitor-7b58acb6"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1039,7 +1039,7 @@
           "monitorId": "monitor-de0caf80"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1049,7 +1049,7 @@
           "monitorId": "monitor-d7aa6727"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1059,7 +1059,7 @@
           "monitorId": "monitor-539f4474"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1069,7 +1069,7 @@
           "monitorId": "monitor-65118143"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1079,7 +1079,7 @@
           "monitorId": "monitor-8108c446"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1089,7 +1089,7 @@
           "monitorId": "monitor-72babc02"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1099,7 +1099,7 @@
           "monitorId": "monitor-e6f04550"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -1109,7 +1109,7 @@
           "monitorId": "monitor-e106ba18"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1119,7 +1119,7 @@
           "monitorId": "monitor-80294720"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1129,7 +1129,7 @@
           "monitorId": "monitor-b5dc898a"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1139,7 +1139,7 @@
           "monitorId": "monitor-15a98cdd"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1149,7 +1149,7 @@
           "monitorId": "monitor-59d2c7d0"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1159,7 +1159,7 @@
           "monitorId": "monitor-8c2c4d13"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1169,7 +1169,7 @@
           "monitorId": "monitor-527c1ba0"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -1179,7 +1179,7 @@
           "monitorId": "monitor-afbd9061"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1189,7 +1189,7 @@
           "monitorId": "monitor-81bf70c3"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1199,7 +1199,7 @@
           "monitorId": "monitor-7d3e391d"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -1209,7 +1209,7 @@
           "monitorId": "monitor-4548cf6c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -1219,7 +1219,7 @@
           "monitorId": "monitor-4490c377"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1229,7 +1229,7 @@
           "monitorId": "monitor-f6bc5cd6"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1239,7 +1239,7 @@
           "monitorId": "monitor-f9e60bb9"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1249,7 +1249,7 @@
           "monitorId": "monitor-aa855903"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1259,7 +1259,7 @@
           "monitorId": "monitor-1cee6ccd"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1269,7 +1269,7 @@
           "monitorId": "monitor-709364d4"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -1279,7 +1279,7 @@
           "monitorId": "monitor-859f9e59"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1289,7 +1289,7 @@
           "monitorId": "monitor-8acb5f9e"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -1299,7 +1299,7 @@
           "monitorId": "monitor-6bc3451e"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1309,7 +1309,7 @@
           "monitorId": "monitor-2da604c2"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1319,7 +1319,7 @@
           "monitorId": "monitor-20c0244d"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1329,7 +1329,7 @@
           "monitorId": "monitor-762439fb"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -1339,7 +1339,7 @@
           "monitorId": "monitor-de47bb17"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1349,7 +1349,7 @@
           "monitorId": "monitor-c3e7c3f7"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -1359,7 +1359,7 @@
           "monitorId": "monitor-77acee99"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1369,7 +1369,7 @@
           "monitorId": "monitor-dbc39c17"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1379,7 +1379,7 @@
           "monitorId": "monitor-2d6cb210"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1389,7 +1389,7 @@
           "monitorId": "monitor-749702b8"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1399,7 +1399,7 @@
           "monitorId": "monitor-fe40d806"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1409,7 +1409,7 @@
           "monitorId": "monitor-5714b111"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1419,7 +1419,7 @@
           "monitorId": "monitor-57e6a928"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1429,7 +1429,7 @@
           "monitorId": "monitor-26789320"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1439,7 +1439,7 @@
           "monitorId": "monitor-44cde513"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1449,7 +1449,7 @@
           "monitorId": "monitor-a5e58ac2"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -1459,7 +1459,7 @@
           "monitorId": "monitor-38809998"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1469,7 +1469,7 @@
           "monitorId": "monitor-0f055b30"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -1479,7 +1479,7 @@
           "monitorId": "monitor-625d70f4"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1489,7 +1489,7 @@
           "monitorId": "monitor-e9f8bf25"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1499,7 +1499,7 @@
           "monitorId": "monitor-9ab6b212"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1509,7 +1509,7 @@
           "monitorId": "monitor-e6d59e2e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1519,7 +1519,7 @@
           "monitorId": "monitor-d20625cb"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1529,7 +1529,7 @@
           "monitorId": "monitor-0ac8c6e7"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -1539,7 +1539,7 @@
           "monitorId": "monitor-69e41caa"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -1550,7 +1550,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -1560,7 +1560,7 @@
           "monitorId": "monitor-5405cc9d"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1570,7 +1570,7 @@
           "monitorId": "monitor-e40ad663"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1580,7 +1580,7 @@
           "monitorId": "monitor-6c5c81c5"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1590,7 +1590,7 @@
           "monitorId": "monitor-3c341da2"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -1600,7 +1600,7 @@
           "monitorId": "monitor-b17f3857"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1610,7 +1610,7 @@
           "monitorId": "monitor-55cf9f3e"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -1620,7 +1620,7 @@
           "monitorId": "monitor-a7fd6d21"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1630,7 +1630,7 @@
           "monitorId": "monitor-e7f1514e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1640,7 +1640,7 @@
           "monitorId": "monitor-f6751b38"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -1650,7 +1650,7 @@
           "monitorId": "monitor-cbf49960"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1660,7 +1660,7 @@
           "monitorId": "monitor-45aac1ba"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1670,7 +1670,7 @@
           "monitorId": "monitor-463d2678"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1680,7 +1680,7 @@
           "monitorId": "monitor-0e0ce012"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1690,7 +1690,7 @@
           "monitorId": "monitor-d3a316ab"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -1701,7 +1701,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1711,7 +1711,7 @@
           "monitorId": "monitor-105c653e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1721,7 +1721,7 @@
           "monitorId": "monitor-ce289df2"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -1731,7 +1731,7 @@
           "monitorId": "monitor-e6e8b21f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1741,7 +1741,7 @@
           "monitorId": "monitor-42b520a9"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1751,7 +1751,7 @@
           "monitorId": "monitor-d74323de"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1761,7 +1761,7 @@
           "monitorId": "monitor-d24cab33"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1771,7 +1771,7 @@
           "monitorId": "monitor-027e5b9b"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -1781,7 +1781,7 @@
           "monitorId": "monitor-af8fd1aa"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -1791,7 +1791,7 @@
           "monitorId": "monitor-2feedf62"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1801,7 +1801,7 @@
           "monitorId": "monitor-0c8603df"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1811,7 +1811,7 @@
           "monitorId": "monitor-e034d7d5"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1821,7 +1821,7 @@
           "monitorId": "monitor-8943e75f"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -1831,7 +1831,7 @@
           "monitorId": "monitor-6193671e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1841,7 +1841,7 @@
           "monitorId": "monitor-931df89b"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -1851,7 +1851,7 @@
           "monitorId": "monitor-7d779757"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -1861,7 +1861,7 @@
           "monitorId": "monitor-6df89745"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1871,7 +1871,7 @@
           "monitorId": "monitor-be83af7a"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1881,7 +1881,7 @@
           "monitorId": "monitor-c6605c28"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -1891,7 +1891,7 @@
           "monitorId": "monitor-ef7c0042"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1901,7 +1901,7 @@
           "monitorId": "monitor-41ba4d95"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1911,7 +1911,7 @@
           "monitorId": "monitor-5ca04891"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/4",
           "statusCode": 200,
@@ -1921,7 +1921,7 @@
           "monitorId": "monitor-013443f4"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1931,7 +1931,7 @@
           "monitorId": "monitor-47f6276a"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1941,7 +1941,7 @@
           "monitorId": "monitor-70d6a331"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1951,7 +1951,7 @@
           "monitorId": "monitor-288addb4"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 503,
@@ -1962,7 +1962,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1972,7 +1972,7 @@
           "monitorId": "monitor-b5fb3311"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -1982,7 +1982,7 @@
           "monitorId": "monitor-28f47a61"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -1992,7 +1992,7 @@
           "monitorId": "monitor-21773955"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2002,7 +2002,7 @@
           "monitorId": "monitor-9cf73239"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2012,7 +2012,7 @@
           "monitorId": "monitor-f9c5476c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/4",
           "statusCode": 503,
@@ -2023,7 +2023,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2033,7 +2033,7 @@
           "monitorId": "monitor-6a7cb8b6"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/7",
           "statusCode": 200,
@@ -2043,7 +2043,7 @@
           "monitorId": "monitor-cdbb566c"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2053,7 +2053,7 @@
           "monitorId": "monitor-6bc01320"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2063,7 +2063,7 @@
           "monitorId": "monitor-87b2f9a2"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -2073,7 +2073,7 @@
           "monitorId": "monitor-9225326b"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2083,7 +2083,7 @@
           "monitorId": "monitor-824cc6d6"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 503,
@@ -2094,7 +2094,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2104,7 +2104,7 @@
           "monitorId": "monitor-429aec06"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2114,7 +2114,7 @@
           "monitorId": "monitor-ad45844e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2124,7 +2124,7 @@
           "monitorId": "monitor-9d6268ee"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2134,7 +2134,7 @@
           "monitorId": "monitor-e1d2717f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2144,7 +2144,7 @@
           "monitorId": "monitor-37460b73"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -2154,7 +2154,7 @@
           "monitorId": "monitor-41c15379"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2164,7 +2164,7 @@
           "monitorId": "monitor-ee69d9a3"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2174,7 +2174,7 @@
           "monitorId": "monitor-e3926286"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2184,7 +2184,7 @@
           "monitorId": "monitor-86d61bb3"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2194,7 +2194,7 @@
           "monitorId": "monitor-300aa3c1"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2204,7 +2204,7 @@
           "monitorId": "monitor-198012b8"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2214,7 +2214,7 @@
           "monitorId": "monitor-5a8d1acb"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2224,7 +2224,7 @@
           "monitorId": "monitor-b2223ffe"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2234,7 +2234,7 @@
           "monitorId": "monitor-3f86791e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2244,7 +2244,7 @@
           "monitorId": "monitor-f9da30c2"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -2254,7 +2254,7 @@
           "monitorId": "monitor-a7cacf89"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2264,7 +2264,7 @@
           "monitorId": "monitor-fc3752f3"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -2274,7 +2274,7 @@
           "monitorId": "monitor-1c3e1ba6"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2284,7 +2284,7 @@
           "monitorId": "monitor-3564bca5"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2294,7 +2294,7 @@
           "monitorId": "monitor-f9516425"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -2304,7 +2304,7 @@
           "monitorId": "monitor-32fe1378"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2314,7 +2314,7 @@
           "monitorId": "monitor-01adde77"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2324,7 +2324,7 @@
           "monitorId": "monitor-f9a72343"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2334,7 +2334,7 @@
           "monitorId": "monitor-37970a3b"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2344,7 +2344,7 @@
           "monitorId": "monitor-69527b0c"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2354,7 +2354,7 @@
           "monitorId": "monitor-554c908b"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -2365,7 +2365,7 @@
           "error": "Request timeout"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2375,7 +2375,7 @@
           "monitorId": "monitor-6e5ff72a"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2385,7 +2385,7 @@
           "monitorId": "monitor-dae54096"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2395,7 +2395,7 @@
           "monitorId": "monitor-fe17188b"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -2405,7 +2405,7 @@
           "monitorId": "monitor-52faaefc"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2415,7 +2415,7 @@
           "monitorId": "monitor-4db88100"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2425,7 +2425,7 @@
           "monitorId": "monitor-8828afd5"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2435,7 +2435,7 @@
           "monitorId": "monitor-834dbfdd"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2445,7 +2445,7 @@
           "monitorId": "monitor-cae3ed67"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2455,7 +2455,7 @@
           "monitorId": "monitor-a9f42026"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2465,7 +2465,7 @@
           "monitorId": "monitor-b8a56434"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2475,7 +2475,7 @@
           "monitorId": "monitor-2f2cb21d"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2485,7 +2485,7 @@
           "monitorId": "monitor-440c1e2d"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2495,7 +2495,7 @@
           "monitorId": "monitor-1d7fd6f8"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2505,7 +2505,7 @@
           "monitorId": "monitor-e1e2ca0b"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -2515,7 +2515,7 @@
           "monitorId": "monitor-331a65e2"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2525,7 +2525,7 @@
           "monitorId": "monitor-f8d25399"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2535,7 +2535,7 @@
           "monitorId": "monitor-07083685"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2545,7 +2545,7 @@
           "monitorId": "monitor-cdba18d3"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2555,7 +2555,7 @@
           "monitorId": "monitor-34cd41ce"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2565,7 +2565,7 @@
           "monitorId": "monitor-5e90722d"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2575,7 +2575,7 @@
           "monitorId": "monitor-8b715fa5"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/4",
           "statusCode": 200,
@@ -2585,7 +2585,7 @@
           "monitorId": "monitor-bc554e7b"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2595,7 +2595,7 @@
           "monitorId": "monitor-4a09c371"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -2605,7 +2605,7 @@
           "monitorId": "monitor-2d043ce0"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/7",
           "statusCode": 200,
@@ -2615,7 +2615,7 @@
           "monitorId": "monitor-145b9373"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2625,7 +2625,7 @@
           "monitorId": "monitor-d649d4eb"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -2635,7 +2635,7 @@
           "monitorId": "monitor-047a5b93"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2645,7 +2645,7 @@
           "monitorId": "monitor-0723197a"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -2655,7 +2655,7 @@
           "monitorId": "monitor-604176c4"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2665,7 +2665,7 @@
           "monitorId": "monitor-c445d2b0"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2675,7 +2675,7 @@
           "monitorId": "monitor-e4c587ca"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2685,7 +2685,7 @@
           "monitorId": "monitor-63b29737"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2695,7 +2695,7 @@
           "monitorId": "monitor-f0cce2b3"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2705,7 +2705,7 @@
           "monitorId": "monitor-d38c8117"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -2716,7 +2716,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -2726,7 +2726,7 @@
           "monitorId": "monitor-71076577"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -2736,7 +2736,7 @@
           "monitorId": "monitor-cd845048"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2746,7 +2746,7 @@
           "monitorId": "monitor-0334fbd0"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2756,7 +2756,7 @@
           "monitorId": "monitor-2143d846"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -2766,7 +2766,7 @@
           "monitorId": "monitor-8885f6ec"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2776,7 +2776,7 @@
           "monitorId": "monitor-1335842e"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2786,7 +2786,7 @@
           "monitorId": "monitor-b5e5e5bc"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2796,7 +2796,7 @@
           "monitorId": "monitor-4ae43e15"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2806,7 +2806,7 @@
           "monitorId": "monitor-6df8d907"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2816,7 +2816,7 @@
           "monitorId": "monitor-726b523c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2826,7 +2826,7 @@
           "monitorId": "monitor-9c101075"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -2836,7 +2836,7 @@
           "monitorId": "monitor-5a979fba"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2846,7 +2846,7 @@
           "monitorId": "monitor-68b0a464"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -2856,7 +2856,7 @@
           "monitorId": "monitor-495531d7"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2866,7 +2866,7 @@
           "monitorId": "monitor-f3555e29"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 500,
@@ -2877,7 +2877,7 @@
           "error": "HTTP 500"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2887,7 +2887,7 @@
           "monitorId": "monitor-6aa0b6a1"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2897,7 +2897,7 @@
           "monitorId": "monitor-8312ec51"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -2907,7 +2907,7 @@
           "monitorId": "monitor-e7152be9"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2917,7 +2917,7 @@
           "monitorId": "monitor-dfb45c7b"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2927,7 +2927,7 @@
           "monitorId": "monitor-00d3c8d0"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -2937,7 +2937,7 @@
           "monitorId": "monitor-61b49dcc"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2947,7 +2947,7 @@
           "monitorId": "monitor-6032445b"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2957,7 +2957,7 @@
           "monitorId": "monitor-c99694b8"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2967,7 +2967,7 @@
           "monitorId": "monitor-0911aa60"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2977,7 +2977,7 @@
           "monitorId": "monitor-f8e77b31"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2987,7 +2987,7 @@
           "monitorId": "monitor-b410b49a"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -2997,7 +2997,7 @@
           "monitorId": "monitor-854cc005"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3007,7 +3007,7 @@
           "monitorId": "monitor-13424152"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3017,7 +3017,7 @@
           "monitorId": "monitor-95633b77"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3027,7 +3027,7 @@
           "monitorId": "monitor-c2b645b6"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -3037,7 +3037,7 @@
           "monitorId": "monitor-a5629801"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3047,7 +3047,7 @@
           "monitorId": "monitor-f4adf594"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3057,7 +3057,7 @@
           "monitorId": "monitor-bac8ae2c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3067,7 +3067,7 @@
           "monitorId": "monitor-96d623ec"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3077,7 +3077,7 @@
           "monitorId": "monitor-b2746c5f"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3087,7 +3087,7 @@
           "monitorId": "monitor-ea12c494"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3097,7 +3097,7 @@
           "monitorId": "monitor-2165c151"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3107,7 +3107,7 @@
           "monitorId": "monitor-0c190549"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3117,7 +3117,7 @@
           "monitorId": "monitor-609e8d7f"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3127,7 +3127,7 @@
           "monitorId": "monitor-54fe116e"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3137,7 +3137,7 @@
           "monitorId": "monitor-d4e7d864"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3147,7 +3147,7 @@
           "monitorId": "monitor-81b52801"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3157,7 +3157,7 @@
           "monitorId": "monitor-c56ce07e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3167,7 +3167,7 @@
           "monitorId": "monitor-2f5e0200"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3177,7 +3177,7 @@
           "monitorId": "monitor-4ab1647f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3187,7 +3187,7 @@
           "monitorId": "monitor-38b01c5a"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3197,7 +3197,7 @@
           "monitorId": "monitor-2e80801e"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3207,7 +3207,7 @@
           "monitorId": "monitor-bfce5d81"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3217,7 +3217,7 @@
           "monitorId": "monitor-ebcf027e"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3227,7 +3227,7 @@
           "monitorId": "monitor-c1c43d0a"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3237,7 +3237,7 @@
           "monitorId": "monitor-f2c2b15f"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3247,7 +3247,7 @@
           "monitorId": "monitor-5e75d476"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3257,7 +3257,7 @@
           "monitorId": "monitor-8003be7e"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3267,7 +3267,7 @@
           "monitorId": "monitor-93de5e29"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3277,7 +3277,7 @@
           "monitorId": "monitor-e1c328da"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -3287,7 +3287,7 @@
           "monitorId": "monitor-abb06cc0"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3297,7 +3297,7 @@
           "monitorId": "monitor-c4e0d676"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3307,7 +3307,7 @@
           "monitorId": "monitor-ef62fa14"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3317,7 +3317,7 @@
           "monitorId": "monitor-2df6da7d"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3327,7 +3327,7 @@
           "monitorId": "monitor-a2f3e39b"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3337,7 +3337,7 @@
           "monitorId": "monitor-703785e9"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3347,7 +3347,7 @@
           "monitorId": "monitor-72d0c9f2"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -3357,7 +3357,7 @@
           "monitorId": "monitor-eb8bbc7c"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3367,7 +3367,7 @@
           "monitorId": "monitor-6207e1cc"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3377,7 +3377,7 @@
           "monitorId": "monitor-89f4ec45"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -3387,7 +3387,7 @@
           "monitorId": "monitor-9fd414f6"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3397,7 +3397,7 @@
           "monitorId": "monitor-69c7d285"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3407,7 +3407,7 @@
           "monitorId": "monitor-7c75bcdf"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3417,7 +3417,7 @@
           "monitorId": "monitor-dabc7402"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3427,7 +3427,7 @@
           "monitorId": "monitor-aa3eccba"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -3437,7 +3437,7 @@
           "monitorId": "monitor-328677d7"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3447,7 +3447,7 @@
           "monitorId": "monitor-ac88d58f"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3457,7 +3457,7 @@
           "monitorId": "monitor-886b80c4"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3467,7 +3467,7 @@
           "monitorId": "monitor-7914e9bb"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3477,7 +3477,7 @@
           "monitorId": "monitor-af574cd0"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3487,7 +3487,7 @@
           "monitorId": "monitor-242b5eb7"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3497,7 +3497,7 @@
           "monitorId": "monitor-c32e2479"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3507,7 +3507,7 @@
           "monitorId": "monitor-8b33e3f3"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -3517,7 +3517,7 @@
           "monitorId": "monitor-e67381ca"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3527,7 +3527,7 @@
           "monitorId": "monitor-eb5601b3"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3537,7 +3537,7 @@
           "monitorId": "monitor-f8c7442f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3547,7 +3547,7 @@
           "monitorId": "monitor-118821b0"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3557,7 +3557,7 @@
           "monitorId": "monitor-ceb6c648"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3567,7 +3567,7 @@
           "monitorId": "monitor-72cae1e1"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3577,7 +3577,7 @@
           "monitorId": "monitor-bf19ac3a"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 503,
@@ -3588,7 +3588,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3598,7 +3598,7 @@
           "monitorId": "monitor-8b15dd0c"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -3608,7 +3608,7 @@
           "monitorId": "monitor-9de92292"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3618,7 +3618,7 @@
           "monitorId": "monitor-034504cb"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -3629,7 +3629,7 @@
           "error": "Request timeout"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -3639,7 +3639,7 @@
           "monitorId": "monitor-6c4cdc41"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -3649,7 +3649,7 @@
           "monitorId": "monitor-241f4729"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -3659,7 +3659,7 @@
           "monitorId": "monitor-93d034bc"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -3669,7 +3669,7 @@
           "monitorId": "monitor-ed3fcdf4"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3679,7 +3679,7 @@
           "monitorId": "monitor-3eb054c2"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3689,7 +3689,7 @@
           "monitorId": "monitor-4108c706"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3699,7 +3699,7 @@
           "monitorId": "monitor-2b923db0"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -3709,7 +3709,7 @@
           "monitorId": "monitor-32d9e543"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3719,7 +3719,7 @@
           "monitorId": "monitor-f19d48c4"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3729,7 +3729,7 @@
           "monitorId": "monitor-c5729832"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -3739,7 +3739,7 @@
           "monitorId": "monitor-27820006"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/4",
           "statusCode": 200,
@@ -3749,7 +3749,7 @@
           "monitorId": "monitor-adaaadc7"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3759,7 +3759,7 @@
           "monitorId": "monitor-570159d3"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3769,7 +3769,7 @@
           "monitorId": "monitor-19adf4e8"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3779,7 +3779,7 @@
           "monitorId": "monitor-36b08563"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3789,7 +3789,7 @@
           "monitorId": "monitor-c50e0992"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3799,7 +3799,7 @@
           "monitorId": "monitor-4dedb435"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3809,7 +3809,7 @@
           "monitorId": "monitor-9bcd22a5"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3819,7 +3819,7 @@
           "monitorId": "monitor-9609d4b0"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3829,7 +3829,7 @@
           "monitorId": "monitor-5715b9ea"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3839,7 +3839,7 @@
           "monitorId": "monitor-b29a2712"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -3850,7 +3850,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3860,7 +3860,7 @@
           "monitorId": "monitor-5f23e00d"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3870,7 +3870,7 @@
           "monitorId": "monitor-d43ae227"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3880,7 +3880,7 @@
           "monitorId": "monitor-d289b065"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -3890,7 +3890,7 @@
           "monitorId": "monitor-cd5cec20"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3900,7 +3900,7 @@
           "monitorId": "monitor-fdd22458"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -3910,7 +3910,7 @@
           "monitorId": "monitor-0b1f97e5"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3920,7 +3920,7 @@
           "monitorId": "monitor-86bcea85"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3930,7 +3930,7 @@
           "monitorId": "monitor-64afd646"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3940,7 +3940,7 @@
           "monitorId": "monitor-38238576"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3950,7 +3950,7 @@
           "monitorId": "monitor-2d5e9020"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3960,7 +3960,7 @@
           "monitorId": "monitor-6c5358e0"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -3971,7 +3971,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3981,7 +3981,7 @@
           "monitorId": "monitor-344ad648"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -3991,7 +3991,7 @@
           "monitorId": "monitor-ef6ce31c"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -4002,7 +4002,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4012,7 +4012,7 @@
           "monitorId": "monitor-67b85921"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4022,7 +4022,7 @@
           "monitorId": "monitor-b7367f04"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4032,7 +4032,7 @@
           "monitorId": "monitor-f8a6f440"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4042,7 +4042,7 @@
           "monitorId": "monitor-e56d59e9"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4052,7 +4052,7 @@
           "monitorId": "monitor-722c8593"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4062,7 +4062,7 @@
           "monitorId": "monitor-4c113390"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -4073,7 +4073,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -4083,7 +4083,7 @@
           "monitorId": "monitor-5d8c31fb"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -4093,7 +4093,7 @@
           "monitorId": "monitor-e7881123"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4103,7 +4103,7 @@
           "monitorId": "monitor-f1a0dde5"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4113,7 +4113,7 @@
           "monitorId": "monitor-95d969b4"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4123,7 +4123,7 @@
           "monitorId": "monitor-388d83db"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -4134,7 +4134,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4144,7 +4144,7 @@
           "monitorId": "monitor-791763ff"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -4154,7 +4154,7 @@
           "monitorId": "monitor-2e448e85"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4164,7 +4164,7 @@
           "monitorId": "monitor-21f6dd88"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4174,7 +4174,7 @@
           "monitorId": "monitor-febd1370"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -4184,7 +4184,7 @@
           "monitorId": "monitor-7bedc564"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4194,7 +4194,7 @@
           "monitorId": "monitor-aa03ada6"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4204,7 +4204,7 @@
           "monitorId": "monitor-953009df"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4214,7 +4214,7 @@
           "monitorId": "monitor-bbb8f40c"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4224,7 +4224,7 @@
           "monitorId": "monitor-90d79adf"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4234,7 +4234,7 @@
           "monitorId": "monitor-1006f169"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -4244,7 +4244,7 @@
           "monitorId": "monitor-140661fa"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -4254,7 +4254,7 @@
           "monitorId": "monitor-87e3a28f"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4264,7 +4264,7 @@
           "monitorId": "monitor-36bdeb01"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4274,7 +4274,7 @@
           "monitorId": "monitor-c228a55c"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4284,7 +4284,7 @@
           "monitorId": "monitor-a900dce3"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -4294,7 +4294,7 @@
           "monitorId": "monitor-b9b83c54"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4304,7 +4304,7 @@
           "monitorId": "monitor-5d799dc6"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4314,7 +4314,7 @@
           "monitorId": "monitor-baf41028"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4324,7 +4324,7 @@
           "monitorId": "monitor-c56f50de"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4334,7 +4334,7 @@
           "monitorId": "monitor-26d2e8e6"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4344,7 +4344,7 @@
           "monitorId": "monitor-f11f94e1"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4354,7 +4354,7 @@
           "monitorId": "monitor-458afaa4"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -4364,7 +4364,7 @@
           "monitorId": "monitor-552704c9"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -4374,7 +4374,7 @@
           "monitorId": "monitor-2962ba6f"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4384,7 +4384,7 @@
           "monitorId": "monitor-08760b8e"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -4394,7 +4394,7 @@
           "monitorId": "monitor-99b30d9b"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4404,7 +4404,7 @@
           "monitorId": "monitor-15abc777"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -4414,7 +4414,7 @@
           "monitorId": "monitor-b96c0110"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -4424,7 +4424,7 @@
           "monitorId": "monitor-d53f89fd"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -4434,7 +4434,7 @@
           "monitorId": "monitor-9d452765"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -4444,7 +4444,7 @@
           "monitorId": "monitor-cee95391"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4454,7 +4454,7 @@
           "monitorId": "monitor-7ed91b30"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4464,7 +4464,7 @@
           "monitorId": "monitor-b50e4877"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -4474,7 +4474,7 @@
           "monitorId": "monitor-55eb75dd"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4484,7 +4484,7 @@
           "monitorId": "monitor-e04151c6"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4494,7 +4494,7 @@
           "monitorId": "monitor-17bec0a0"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4504,7 +4504,7 @@
           "monitorId": "monitor-1e6482fd"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4514,7 +4514,7 @@
           "monitorId": "monitor-a4f915d2"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -4524,7 +4524,7 @@
           "monitorId": "monitor-990830b1"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4534,7 +4534,7 @@
           "monitorId": "monitor-1f9ce90b"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4544,7 +4544,7 @@
           "monitorId": "monitor-0a722109"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4554,7 +4554,7 @@
           "monitorId": "monitor-2917b6c0"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4564,7 +4564,7 @@
           "monitorId": "monitor-111d2e60"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4574,7 +4574,7 @@
           "monitorId": "monitor-a290fba1"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/3",
           "statusCode": 200,
@@ -4584,7 +4584,7 @@
           "monitorId": "monitor-1b3f6134"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4594,7 +4594,7 @@
           "monitorId": "monitor-a8242f0c"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4604,7 +4604,7 @@
           "monitorId": "monitor-6b5957cb"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4614,7 +4614,7 @@
           "monitorId": "monitor-f8d0a266"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4624,7 +4624,7 @@
           "monitorId": "monitor-5910cf25"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4634,7 +4634,7 @@
           "monitorId": "monitor-71643d26"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4644,7 +4644,7 @@
           "monitorId": "monitor-f30c6ea4"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4654,7 +4654,7 @@
           "monitorId": "monitor-dbd48a66"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/2",
           "statusCode": 200,
@@ -4664,7 +4664,7 @@
           "monitorId": "monitor-7d736ed0"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4674,7 +4674,7 @@
           "monitorId": "monitor-3689137e"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4684,7 +4684,7 @@
           "monitorId": "monitor-0fa2f97c"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4694,7 +4694,7 @@
           "monitorId": "monitor-4cc25175"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/1",
           "statusCode": 200,
@@ -4704,7 +4704,7 @@
           "monitorId": "monitor-fef243e5"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4714,7 +4714,7 @@
           "monitorId": "monitor-933d55eb"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4724,7 +4724,7 @@
           "monitorId": "monitor-b479f696"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4734,7 +4734,7 @@
           "monitorId": "monitor-6be6ebed"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -4745,7 +4745,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4755,7 +4755,7 @@
           "monitorId": "monitor-0624c113"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -4765,7 +4765,7 @@
           "monitorId": "monitor-a2ef387d"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4775,7 +4775,7 @@
           "monitorId": "monitor-0eb21559"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4785,7 +4785,7 @@
           "monitorId": "monitor-f3d1fc5f"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4795,7 +4795,7 @@
           "monitorId": "monitor-c947fb2f"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 503,
@@ -4806,7 +4806,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4816,7 +4816,7 @@
           "monitorId": "monitor-52ebb51b"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4826,7 +4826,7 @@
           "monitorId": "monitor-cd2fb641"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4836,7 +4836,7 @@
           "monitorId": "monitor-d550fd6e"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/5",
           "statusCode": 200,
@@ -4846,7 +4846,7 @@
           "monitorId": "monitor-207543a1"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4856,7 +4856,7 @@
           "monitorId": "monitor-d711205a"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/0",
           "statusCode": 200,
@@ -4866,7 +4866,7 @@
           "monitorId": "monitor-837b3fe7"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4876,7 +4876,7 @@
           "monitorId": "monitor-28b4e642"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4886,7 +4886,7 @@
           "monitorId": "monitor-83dd2daa"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4896,7 +4896,7 @@
           "monitorId": "monitor-37ef7b2f"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4906,7 +4906,7 @@
           "monitorId": "monitor-7e0091ff"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/7",
           "statusCode": 200,
@@ -4916,7 +4916,7 @@
           "monitorId": "monitor-45210a22"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -4926,7 +4926,7 @@
           "monitorId": "monitor-1e15db92"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4936,7 +4936,7 @@
           "monitorId": "monitor-94d6af15"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4946,7 +4946,7 @@
           "monitorId": "monitor-eaca0056"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4956,7 +4956,7 @@
           "monitorId": "monitor-e66e4c4a"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4966,7 +4966,7 @@
           "monitorId": "monitor-ef60f52a"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4976,7 +4976,7 @@
           "monitorId": "monitor-b2de6197"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4986,7 +4986,7 @@
           "monitorId": "monitor-b1b5032d"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -4996,7 +4996,7 @@
           "monitorId": "monitor-6767b7e2"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5006,7 +5006,7 @@
           "monitorId": "monitor-c819a95f"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5016,7 +5016,7 @@
           "monitorId": "monitor-eee41036"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5026,7 +5026,7 @@
           "monitorId": "monitor-4a5a8e43"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5036,7 +5036,7 @@
           "monitorId": "monitor-878335e9"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/6",
           "statusCode": 200,
@@ -5046,7 +5046,7 @@
           "monitorId": "monitor-46d0a67c"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/7",
           "statusCode": 200,
@@ -5056,7 +5056,7 @@
           "monitorId": "monitor-2d6be1dd"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/4",
           "statusCode": 200,
@@ -5066,7 +5066,7 @@
           "monitorId": "monitor-7ba0d38c"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 503,
@@ -5077,7 +5077,7 @@
           "error": "HTTP 503"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/api/9",
           "statusCode": 200,
@@ -5087,7 +5087,7 @@
           "monitorId": "monitor-b0c649ce"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5097,7 +5097,7 @@
           "monitorId": "monitor-27388d1a"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5107,7 +5107,7 @@
           "monitorId": "monitor-8a28e92d"
         },
         {
-          "endpoint": "https://api.payment.com/v1",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5117,7 +5117,7 @@
           "monitorId": "monitor-a1269ae5"
         },
         {
-          "endpoint": "https://api.payment.com/v2",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v2",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,
@@ -5127,7 +5127,7 @@
           "monitorId": "monitor-57e4ffd5"
         },
         {
-          "endpoint": "https://api.inventory.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
           "method": "GET",
           "path": "/api/8",
           "statusCode": 200,
@@ -5137,7 +5137,7 @@
           "monitorId": "monitor-c3bdd738"
         },
         {
-          "endpoint": "https://api.auth.com",
+          "endpoint": "https://ec2-3-xx-xx-xx.us-east-3.compute.amazonaws.com",
           "method": "GET",
           "path": "/health",
           "statusCode": 200,

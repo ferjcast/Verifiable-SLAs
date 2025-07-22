@@ -1,6 +1,6 @@
 {
   "measurement": {
-    "endpoint": "https://api.inventory.com",
+    "endpoint": "https://ec2-3-xx-xx-xx.us-east-1.compute.amazonaws.com",
     "error": "HTTP 503",
     "latency": 4378,
     "method": "GET",

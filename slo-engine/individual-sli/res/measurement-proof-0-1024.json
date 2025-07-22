@@ -1,6 +1,6 @@
 {
   "measurement": {
-    "endpoint": "https://api.payment.com/v1",
+    "endpoint": "https://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com/v1",
     "error": "Request timeout",
     "latency": -1,
     "method": "GET",
