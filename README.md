@@ -21,18 +21,18 @@ TEE-based monitors + zkVM proofs for verifiable SLA compliance.
 
 ## Setup
 
-### 1. Deploy Contracts
+### 1. Start Storage
+```bash
+cd infra-storage
+docker-compose up -d
+```
+
+### 2. Deploy Contracts
 ```bash
 cd sla-contracts
 npm install
 npx hardhat test
 npx hardhat deploy --network test-network
-```
-
-### 2. Start Storage
-```bash
-cd infra-storage
-docker-compose up -d
 ```
 
 ### 3. Run Monitor

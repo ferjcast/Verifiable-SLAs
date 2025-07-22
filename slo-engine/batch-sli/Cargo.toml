@@ -1,9 +1,8 @@
 [package]
-name = "k256-example"
+name = "batch-sli"
 version = "0.1.0"
-edition = "2021"
 
-default-run = "k256-example"
+default-run = "batch-sli"
 
 [dependencies]
 k256 = { version = "0.13", features = ["serde"] }

@@ -1,9 +1,8 @@
 [package]
-name = "k256-example"
+name = "individual-sli"
 version = "0.1.0"
-edition = "2021"
 
-default-run = "k256-example"
+default-run = "individual-sli"
 
 [dependencies]
 k256 = { version = "0.13", features = ["serde"] }
