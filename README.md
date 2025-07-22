@@ -16,8 +16,8 @@ TEE-based monitors + zkVM proofs for verifiable SLA compliance.
 - `SLAConfiguration.sol` - SLA parameters
 
 ### `/slo-engine` - Zero-Knowledge Proof Generation
-- **`/ecdsa/batch-sli`** - Batch verification strategy
-- **`/ecdsa/individual-sli`** - Individual violation proofs
+- **`/batch-sli`** - Batch verification strategy
+- **`/individual-sli`** - Individual violation proofs
 
 ## Setup
 
@@ -49,7 +49,7 @@ phala cvms create -n tee-monitor -c ./docker-compose.yml --vcpu 2 --memory 4096 
 
 ### 4. Generate Proofs
 ```bash
-cd slo-engine/ecdsa/batch-sli
+cd slo-engine/batch-sli #for batch measurements /individual-sli for individual violations
 cargo run --release
 ```
 
@@ -63,4 +63,4 @@ Example measurements in: `slo-engine/ecdsa/*/res/`
 
 - Docker
 - Node.js 20+
-- Rust 1.70+
+- Rust 1.80+
