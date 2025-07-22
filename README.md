@@ -57,7 +57,7 @@ cargo run --release
 
 ## Test Data
 
-Example measurements in: `slo-engine/ecdsa/*/res/`
+Example measurements in: `slo-engine/*/res/`
 
 ## Requirements
 
