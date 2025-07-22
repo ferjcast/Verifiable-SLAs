@@ -71,14 +71,14 @@ sla-contracts/typechain-types/
 # ============================================
 # slo-engine/ (Rust)
 # ============================================
-slo-engine/*/*/target/
-slo-engine/*/*/debug/
+slo-engine/*/target/
+slo-engine/*/debug/
 slo-engine/Cargo.lock
 slo-engine/**/*.rs.bk
 slo-engine/*.pdb
 # The ecdsa folder seems to contain binaries
-slo-engine/ecdsa/*.log
-slo-engine/ecdsa/target/
+slo-engine/*.log
+slo-engine/target/
 
 # ============================================
 # infra-storage/ (if it exists)
