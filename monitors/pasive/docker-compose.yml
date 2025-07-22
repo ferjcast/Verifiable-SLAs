@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   app:
-    image: ferjcast/app:new
+    image: userx/app:new
     container_name: app
     volumes:
       - /var/run/tappd.sock:/var/run/tappd.sock
