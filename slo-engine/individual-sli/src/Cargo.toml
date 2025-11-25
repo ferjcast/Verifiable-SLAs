@@ -1,0 +1,18 @@
+[package]
+name = "individual-sli"
+version = "0.1.0"
+
+default-run = "individual-sli"
+
+[dependencies]
+k256 = { version = "0.13", features = ["serde"] }
+k256-methods = { path = "methods" }
+rand_core = "0.6.4"
+risc0-zkvm = "=2.3.1"
+
+
+[features]
+cuda = ["risc0-zkvm/cuda"]
+default = []
+prove = ["risc0-zkvm/prove"]
+

@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [build-dependencies]
-risc0-build = { version = "=2.3.1" }
+risc0-build = { version = "=2.3.1",  features = ["unstable"]  }
+risc0-zkvm = "=2.3.1"
+
 [package.metadata.risc0]
 methods = ["guest"]

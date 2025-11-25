@@ -32,7 +32,7 @@ docker-compose up -d
 cd sla-contracts
 npm install
 npx hardhat test
-npx hardhat deploy --network test-network
+npx hardhat run scripts/deploy.js 
 ```
 
 ### 3. Run Monitor

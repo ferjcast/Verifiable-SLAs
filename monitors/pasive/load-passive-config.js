@@ -69,7 +69,7 @@ const passiveConfig = {
   schemaVersion: '1.0.0',
   
   // Backend server to forward requests to
-  backendUrl: process.env.BACKEND_URL || 'http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:3000',
+  backendUrl: process.env.BACKEND_URL || 'http://ec2-3-xx-xx-xx.us-east-2.compute.amazonaws.com:3000',
   backendTimeout: 30000, // 30 seconds
   
   // Measurement settings
@@ -252,7 +252,7 @@ if (require.main === module) {
     console.log('  --show-keys           Display current keys');
     console.log('  --regenerate-keys     Force regeneration of keys\n');
     console.log('Environment variables:');
-    console.log('  BACKEND_URL           Backend server URL (default: http://ec2-3-17-44-230.us-east-2.compute.amazonaws.com:3000)');
+    console.log('  BACKEND_URL           Backend server URL (default: http://ec2-3-xx-xx-xxå.us-east-2.compute.amazonaws.com:3000)');
     console.log('  MONITOR_URL           Monitor URL (default: http://localhost:3003)');
     console.log('  USE_EXISTING_CONFIG   Use existing config file (true/false)');
     process.exit(0);
